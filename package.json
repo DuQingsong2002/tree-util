@@ -1,0 +1,27 @@
+{
+  "name": "tree-util",
+  "version": "0.1.0",
+  "description": "tree-util",
+  "main": "./src/tree-util.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuQingsong2002/tree-util.git"
+  },
+  "keywords": [
+    "tree",
+    "util"
+  ],
+  "author": "easydu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuQingsong2002/tree-util/issues"
+  },
+  "homepage": "https://github.com/DuQingsong2002/tree-util#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2"
+  }
+}

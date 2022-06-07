@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654610692875" clover="3.2.0">
+  <project timestamp="1654610692875" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="23" coveredconditionals="23" methods="4" coveredmethods="4" elements="49" coveredelements="49" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="tree-util.js" path="E:\projects\A_lib\tree-util\src\tree-util.js">
+      <metrics statements="22" coveredstatements="22" conditionals="23" coveredconditionals="23" methods="4" coveredmethods="4"/>
+      <line num="13" count="1" type="cond" truecount="3" falsecount="0"/>
+      <line num="15" count="21" type="stmt"/>
+      <line num="16" count="25" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="20" count="8" type="stmt"/>
+      <line num="23" count="25" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="8" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="33" count="21" type="cond" truecount="4" falsecount="0"/>
+      <line num="34" count="15" type="stmt"/>
+      <line num="35" count="15" type="cond" truecount="4" falsecount="0"/>
+      <line num="36" count="5" type="stmt"/>
+      <line num="41" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="66" count="2" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="81" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
